@@ -6,6 +6,14 @@
 
 Zombie Defenders is a single player turn based table top style game. The objective of the game is for the player to defend their home from hordes of zombies, if the player still has characters alive at the end of the game they have won. 
 
+## Technology Stack 
+
+The game is: 
+
+- Built in typescript
+- Has no visual assets or ui 
+- Played out via configurations and tests
+
 ## How the game is played 
 
 - A player can choose from several characters, each with their own attributes and abilities 
